@@ -34,7 +34,7 @@ setTimeout(()=>{
     span.innerHTML = n
 setTimeout(()=>{
     n = n-1
-    span.innerHTML = "LOVE YOU ATSHUMA"
+    span.innerHTML = "LOVE YOU DEEPI MA"
                                       
     },1000)
     },1000)
